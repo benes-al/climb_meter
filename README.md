@@ -7,7 +7,7 @@
                        |_____|                           
 ```
 
-clib_meter is a fun and interactive program developed for the 42 Club Showcase.
+clib_meter is a fun and interactive program developed for the 42 Climbers Club.
 
 The goal is to evaluate a user’s potential for climbing and deliver personalized feedback and humorous messages based on the user’s input, making the experience both informative and entertaining.
 
