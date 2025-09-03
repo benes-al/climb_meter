@@ -15,7 +15,7 @@
 void	print_main_menu(void)
 {
 	printf("============================================================\n");
-	printf("|               Climbers Club \"clib_meter\"                 |\n");
+	printf("|               Climbers Club \"climb_meter\"                |\n");
 	printf("|----------------------------------------------------------|\n");
 	printf("|           Please enter your details below:               |\n");
 	printf("|                                                          |\n");
